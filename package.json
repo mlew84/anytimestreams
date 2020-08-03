@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mlew84/anytimestreams/issues"
   },
-  "homepage": "https://github.com/mlew84/anytimestreams#readme"
+  "homepage": "https://github.com/mlew84/anytimestreams#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
